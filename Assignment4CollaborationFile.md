@@ -16,4 +16,4 @@ Sree     :https://github.com/mounikagarikipati/Software-Assurance/
 
 ## Contribution from Rasiel
 
-- Added my updates for the collaboration assignment. (Rasiel)
+- Added my updates for the collaboration assignment. -Rasiel
